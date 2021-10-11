@@ -4,7 +4,7 @@
 
 :books: Computer Science Student at UFRGS
 
-:computer: Apple Developer Student at PUCRS
+:computer: iOS Developer
 
 [![Linkdein][1.2]][1]
 
